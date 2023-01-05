@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Software\\Project\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\giris\\OneDrive\\Documents\\GitHub\\JenkinCICD\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Software\\Project\\WebAPI\\WebAPI.csproj",
+      "projectPath": "C:\\Users\\giris\\OneDrive\\Documents\\GitHub\\JenkinCICD\\WebAPI\\WebAPI.csproj",
       "packagesPath": "C:\\Users\\giris\\.nuget\\packages\\",
-      "outputPath": "C:\\Software\\Project\\WebAPI\\obj\\",
+      "outputPath": "C:\\Users\\giris\\OneDrive\\Documents\\GitHub\\JenkinCICD\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\giris\\AppData\\Roaming\\NuGet\\NuGet.Config",
