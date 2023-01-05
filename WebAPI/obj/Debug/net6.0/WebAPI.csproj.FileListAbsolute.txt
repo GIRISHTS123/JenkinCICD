@@ -25,13 +25,9 @@ C:\Software\Project\WebAPI\obj\Debug\net6.0\WebAPI.dll
 C:\Software\Project\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
 C:\Software\Project\WebAPI\obj\Debug\net6.0\WebAPI.pdb
 C:\Software\Project\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
-C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.dll
-C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
-C:\Users\giris\OneDrive\Documents\GitHub\JenkinCICD\WebAPI\obj\Debug\net6.0\WebAPI.pdb
